@@ -390,3 +390,4 @@ footer {
       height: calc(100svh - var(--cp-header-height-small));
     }
   }
+}
